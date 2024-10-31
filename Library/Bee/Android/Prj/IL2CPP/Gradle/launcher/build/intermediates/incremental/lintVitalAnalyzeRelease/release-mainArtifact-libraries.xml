@@ -1,0 +1,45 @@
+<libraries>
+  <library
+      name="/Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle@@:unityLibrary::release"
+      jars="/Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/4bd017ec478b9258be435ee0e9133ab1/transformed/out/jars/classes.jar:/Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/4bd017ec478b9258be435ee0e9133ab1/transformed/out/jars/libs/unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="/Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/.transforms/4bd017ec478b9258be435ee0e9133ab1/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:/Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar:unspecified@jar"
+      jars="/Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar"
+      resolved="__local_aars__:/Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar:unspecified"/>
+  <library
+      name=":OVRPlugin:@aar"
+      jars="/Users/tomashrdlicka/.gradle/caches/transforms-3/e5ee16f0d1ed3a0cf0e19b4ba363852a/transformed/OVRPlugin/jars/classes.jar"
+      resolved=":OVRPlugin:"
+      folder="/Users/tomashrdlicka/.gradle/caches/transforms-3/e5ee16f0d1ed3a0cf0e19b4ba363852a/transformed/OVRPlugin"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="/Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+      jars="/Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/.transforms/26c3ac0e731be65bc4d26e2691246955/transformed/out/jars/classes.jar"
+      resolved="Gradle.unityLibrary:xrmanifest.androidlib:unspecified"
+      folder="/Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/xrmanifest.androidlib/build/.transforms/26c3ac0e731be65bc4d26e2691246955/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>

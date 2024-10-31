@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:70-98
+		INJECTED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:99-145
+	xmlns:android
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:2:146-176
+uses-feature#0x00030000
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:3:3-52
+	android:glEsVersion
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:3:17-49
+uses-feature#android.hardware.vulkan.version
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:4:3-91
+	android:required
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:4:64-88
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:4:17-63
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:5:3-88
+	android:required
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:5:61-85
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:5:17-60
+application
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:6:3-27:17
+	android:extractNativeLibs
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:6:16-48
+meta-data#unity.splash-mode
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:7:5-69
+	android:value
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:7:49-66
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:7:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:8:5-74
+	android:value
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:8:51-71
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:8:16-50
+meta-data#unity.launch-fullscreen
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:5-78
+	android:value
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:55-75
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:9:16-54
+meta-data#notch.config
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:5-81
+	android:value
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:44-78
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:10:16-43
+meta-data#unity.auto-report-fully-drawn
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:5-84
+	android:value
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:61-81
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:11:16-60
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:5-21:16
+	android:screenOrientation
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:134-171
+	android:launchMode
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:172-203
+	android:hardwareAccelerated
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:349-384
+	android:exported
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:385-408
+	android:resizeableActivity
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:314-348
+	android:configChanges
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:204-313
+	android:theme
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:69-133
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:12:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:com.oculus.intent.category.VR
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:13:7-17:23
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:9-69
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:14:19-66
+action#android.intent.action.MAIN
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:9-61
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:15:17-58
+category#com.oculus.intent.category.VR
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:16:9-66
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:16:19-63
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:18:7-82
+	android:value
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:18:59-79
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:18:18-58
+meta-data#notch_support
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:19:7-70
+	android:value
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:19:47-67
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:19:18-46
+meta-data#com.oculus.vr.focusaware
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:20:7-81
+	android:value
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:20:58-78
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:20:18-57
+meta-data#com.samsung.android.vr.application.mode
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:22:5-97
+	android:value
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:22:71-94
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:22:16-70
+meta-data#com.unity.xr.oculus.LowOverheadMode
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:23:5-91
+	android:value
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:23:67-88
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:23:16-66
+meta-data#com.unity.xr.oculus.LateLatching
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:24:5-88
+	android:value
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:24:64-85
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:24:16-63
+meta-data#com.unity.xr.oculus.LateLatchingDebug
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:25:5-93
+	android:value
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:25:69-90
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:25:16-68
+meta-data#com.oculus.supportedDevices
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:26:5-84
+	android:value
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:26:59-81
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:26:16-58
+uses-feature#android.hardware.vr.headtracking
+ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:28:3-111
+	android:version
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:28:89-108
+	android:required
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:28:65-88
+	android:name
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml:28:17-64
+uses-sdk
+INJECTED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/tomashrdlicka/Desktop/UNITY/Trivial vis/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/src/main/AndroidManifest.xml
