@@ -11,7 +11,7 @@ The project aims to create a visually immersive experience using the following c
 - **A pulsing background** that adjusts its emission and texture properties based on audio data.
 - **Rotational and depth-based effects** to enhance visual interest.
 
-![Game Mode Showcase of Project](showcase1.gif)
+![Game Mode Showcase of Project](Showcase1.gif)
 
 
 ## Code Breakdown
