@@ -104,6 +104,8 @@ This script manages the pulsing and dynamic texture effects of the background ba
    - Go to File tab -> Build & Run
    - Run project on headset
 
+![Scene Mode Showcase of Project](Showcase2.gif)
+
 ##Song Credit
 Reference song used for project construction is Sweet Disposition - Fitch (BIG UP!)
 
