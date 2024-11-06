@@ -106,7 +106,7 @@ This script manages the pulsing and dynamic texture effects of the background ba
 
 ![Scene Mode Showcase of Project](Showcase2.gif)
 
-##Song Credit
+## Song Credit
 Reference song used for project construction is Sweet Disposition - Fitch (BIG UP!)
 
 
