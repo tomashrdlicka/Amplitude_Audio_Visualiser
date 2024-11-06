@@ -1,4 +1,0 @@
-Using template '/Applications/Unity/Hub/Editor/2022.3.20f1/PlaybackEngines/AndroidPlayer/Apk/UnityManifest.xml'
-
-android.hardware.vulkan.version was added because:
-	One of the graphics devices was Vulkan
