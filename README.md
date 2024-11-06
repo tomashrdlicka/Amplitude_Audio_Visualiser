@@ -1,4 +1,4 @@
-# Amplitude Visualizer Project
+# Unity Amplitude Mapping Audio Visualiser Project (VR)
 
 This Unity project is an audio-driven visualizer consisting of dynamic visual elements that respond to audio input. The project includes bars that respond to audio amplitudes, a rotating and scaling pulsing background, and a controller for adjusting visual properties based on the audio spectrum.
 The project is intended to be displayed on a VR headset. Meta Quest 2 was used to deploy it.
